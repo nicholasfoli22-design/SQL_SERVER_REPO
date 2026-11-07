@@ -1,2 +1,6 @@
-SELECT * 
+SELECT 
+product_id,
+product_name,
+list_price
 from production.products
+
